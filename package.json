@@ -1,0 +1,23 @@
+{
+  "name": "video-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bhushanpadhye/electron-video-info.git"
+  },
+  "author": "bhushan.padhye@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhushanpadhye/electron-video-info/issues"
+  },
+  "homepage": "https://github.com/bhushanpadhye/electron-video-info#readme",
+  "dependencies": {
+    "electron": "^23.0.0",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
